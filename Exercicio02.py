@@ -1,3 +1,4 @@
+#Usando While para Soma!
 N=10
 Soma=0
 I=1
