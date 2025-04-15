@@ -6,5 +6,5 @@ while X <= Alunos:
     Notas = int(input("Digite Suas Notas: "))
     X+=1
     Soma+=Notas
-Media=Soma/2
+Media=Soma/Alunos
 print(Media)
